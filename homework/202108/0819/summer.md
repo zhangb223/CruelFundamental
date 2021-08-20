@@ -16,4 +16,4 @@ ssthresh initial as very high but reduced in response to congestion.
 
 slow start: cwnd > ssthresh
 congestion avoidance: cwnd > ssthresh
-when == , the sender may use either on
+when == , the sender may use either one
